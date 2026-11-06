@@ -25,19 +25,19 @@ US07: ในฐานะลูกค้า ฉันต้องการดู�
 ## แหล่งที่มาและลำดับความสำคัญ
 | Story | แหล่งความต้องการ | Priority |
 |---|---|---|
-| US01 | interview.md §2 / owner.md §1 | Must |
-| US02 | interview.md §2 | Must |
-| US03 | interview.md §1/3 / owner.md §2 | Must |
-| US04 | interview.md §2 | Must |
-| US05 | owner.md §3 A-01 (ทีมเสนอ persistence) | Must |
-| US06 | interview.md §1/4 / owner.md §1 | Must |
-| US07 | interview.md §4 | Must |
+| US01 | INTERVIEW.md §2 / OWNER-ANSWERS.md §1 | Must |
+| US02 | INTERVIEW.md §2 | Must |
+| US03 | INTERVIEW.md §1/3 / OWNER-ANSWERS.md §2 | Must |
+| US04 | INTERVIEW.md §2 | Must |
+| US05 | OWNER-ANSWERS.md §3 A-01 (ทีมเสนอ persistence) | Must |
+| US06 | INTERVIEW.md §1/4 / OWNER-ANSWERS.md §1 | Must |
+| US07 | INTERVIEW.md §4 | Must |
 
 ## ตาราง K / Q / A
 | รหัส | เรื่อง | ข้อยุติจำลอง / ข้อจำกัด |
 |---|---|---|
-| K1 / Q1 | ค้นด้วยเบอร์อย่างเดียวหรือสองค่า | owner.md §1 ใช้เลขงานและเบอร์ |
-| K2 / Q2 | ข้ามสถานะได้หรือไม่ | owner.md §2 ต้องตามลำดับ |
-| Q3 / A-01 | ข้อมูลข้ามเครื่อง | owner.md §3 จำกัดเครื่องเดียว |
+| K1 / Q1 | ค้นด้วยเบอร์อย่างเดียวหรือสองค่า | OWNER-ANSWERS.md §1 ใช้เลขงานและเบอร์ |
+| K2 / Q2 | ข้ามสถานะได้หรือไม่ | OWNER-ANSWERS.md §2 ต้องตามลำดับ |
+| Q3 / A-01 | ข้อมูลข้ามเครื่อง | OWNER-ANSWERS.md §3 จำกัดเครื่องเดียว |
 | A-02 | Admin login | ยังไม่ทำ ต้องเพิ่มก่อนใช้จริง |
 | A-03 | งานราคา ประกัน SMS | นอก MVP |
