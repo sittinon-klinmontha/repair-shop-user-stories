@@ -1,0 +1,92 @@
+[
+  {
+    "id": "TC01",
+    "story": "US01",
+    "result": "PASS"
+  },
+  {
+    "id": "TC02",
+    "story": "US01",
+    "result": "PASS"
+  },
+  {
+    "id": "TC03",
+    "story": "US01",
+    "result": "PASS"
+  },
+  {
+    "id": "TC04",
+    "story": "US01",
+    "result": "PASS"
+  },
+  {
+    "id": "TC05",
+    "story": "US01",
+    "result": "PASS"
+  },
+  {
+    "id": "TC06",
+    "story": "US02",
+    "result": "PASS"
+  },
+  {
+    "id": "TC07",
+    "story": "US02",
+    "result": "PASS"
+  },
+  {
+    "id": "TC08",
+    "story": "US03",
+    "result": "PASS"
+  },
+  {
+    "id": "TC09",
+    "story": "US04",
+    "result": "PASS"
+  },
+  {
+    "id": "TC10",
+    "story": "US05",
+    "result": "PASS"
+  },
+  {
+    "id": "TC11",
+    "story": "US03",
+    "result": "PASS"
+  },
+  {
+    "id": "TC12",
+    "story": "US01",
+    "result": "PASS"
+  },
+  {
+    "id": "TC13",
+    "story": "NFR01",
+    "result": "PASS"
+  },
+  {
+    "id": "TC14",
+    "story": "US06",
+    "result": "PASS"
+  },
+  {
+    "id": "TC15",
+    "story": "US06",
+    "result": "PASS"
+  },
+  {
+    "id": "TC16",
+    "story": "US07",
+    "result": "PASS"
+  },
+  {
+    "id": "TC17",
+    "story": "NFR01",
+    "result": "PASS"
+  },
+  {
+    "id": "TC18",
+    "story": "US06",
+    "result": "PASS"
+  }
+]
